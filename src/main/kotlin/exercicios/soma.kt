@@ -3,9 +3,9 @@ package exercicios
 // Função para somar dois valores.
 fun main(){
 
-    val N1 = 10
-    val N2 = 10
-    val soma = N1 + N2
+    val valor1 = 10
+    val valor2 = 10
+    val soma = valor1 + valor2
 
     println("O resultado da soma é: $soma")
 }
