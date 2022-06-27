@@ -1,5 +1,6 @@
 package exercicios
 
+// Função para somar dois valores.
 fun main(){
 
     val N1 = 10
